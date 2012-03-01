@@ -1,4 +1,4 @@
-﻿## Overview ##
+## Overview ##
 
 Simple helpers for creating secure signed download URLs for Amazon Simple Storage Service (S3) and CloudFront.
 
